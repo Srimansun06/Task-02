@@ -1,0 +1,36 @@
+.p1{
+    text-align:center;
+    margin-bottom: 100PX;
+}
+
+.SK{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+}
+#susil{
+   align-items: center;
+   background-color: rgba(127, 121, 120, 0.775);
+   border: 1px solid rgba(127, 121, 120, 0.775);
+   border-radius: 10px;
+   width: 400px;
+   height: 450px;
+   display: FLEX;
+    flex-direction: column;
+    justify-content: center;
+    margin-bottom: 100px;
+}
+
+.P2{
+    100px;
+    background-color: rgb(68, 197, 253);
+    color: red;
+    border-radius: 10px;
+    border: 2px solid black;
+    width: 300px;
+    height:100px;
+    margin: auto;
+    padding: px;
+    text-align: center;
+}
